@@ -1,0 +1,18 @@
+@mixin imgIcon{
+    width: 5rem;
+    background-color: $ftrBg;
+    padding: 0 2rem 1rem 0;
+    height: auto;
+
+}
+
+@mixin flx{
+display: flex;
+
+}
+
+@mixin centerTxt{
+    text-align: center;
+    text-transform: uppercase;
+    white-space: nowrap;
+}

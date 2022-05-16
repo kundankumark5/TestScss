@@ -1,0 +1,9 @@
+.demoButton{
+    background-color:$buttonBg;
+    padding: 5% 10%;
+    border-radius: 8px;
+    text-decoration: none;
+    color: $crdBg;
+    text-transform: uppercase;
+   @include centerTxt;
+}
